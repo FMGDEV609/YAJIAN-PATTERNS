@@ -1,3 +1,5 @@
-# yajian-patterns
-Numbers = steps of the game's note scale (0-10). Drums: 0 kick, 1 hat, 2 snare, 3 tom.
-Add a pattern: upload a file to patterns/ and add a line to index.json.
+# YAJIAN
+1. Create a new GitHub repo, upload all files from this ZIP (keep the .github folder).
+2. Open the Actions tab, wait for "Build APK" to finish (about 5 min).
+3. Open the finished run, download "yajian-apk", unzip it, and install app-debug.apk.
+To test in a browser first, open www/index.html.
